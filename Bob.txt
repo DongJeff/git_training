@@ -1,2 +1,2 @@
-Hi! I'm Bob. I'm new here.
-New text is added on master.
+Hi! I'm Bob. I've been here for a while now.
+New text is added on master. unadded change
