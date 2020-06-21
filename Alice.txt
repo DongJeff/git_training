@@ -1,1 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. twice edited on github.com for conflict. rewriting history. committing alice first.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. twice edited on github.com for conflict. rewriting history. committing alice first. editing to recommit.
